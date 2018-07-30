@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Excardo</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Strategy. Services. Software.</description>
 	<lastBuildDate>Fri, 27 Jul 2018 20:52:38 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,9 +19,9 @@
 	<generator>https://wordpress.org/?v=4.9.7</generator>
 
 <image>
-	<url>/wp-content/uploads/2017/06/favicon-150x150.gif</url>
+	<url>./../wp-content/uploads/2017/06/favicon-150x150.gif</url>
 	<title>Excardo</title>
-	<link>/</link>
+	<link>./../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
